@@ -79,8 +79,8 @@ I focus on writing clean code and designing intuitive user experiences.
 
 - 📧 Email: pitrodanayan03@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/nayan-pitroda-21b7b2370/  
-- 🌐 GitHub: https://github.com/nayan4472  
-
+- 🌐 GitHub: https://github.com/nayan4472
+- 📄 Resume: https://drive.google.com/drive/folders/1rYJBMpBBSaXFEo2YiHYbTlZE4-dmJNFc
 ---
 
 ## ⭐ Fun Fact
